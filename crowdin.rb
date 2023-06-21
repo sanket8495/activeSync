@@ -16,5 +16,5 @@ rnt.root(
       wps.pwd:: cdb.pwd,
       wps.authType:: "CRAM-MD5",
     },
-    version: 2.1.0,
+    version: 2.3.0,
 )
